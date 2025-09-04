@@ -4,7 +4,7 @@ I'm a **Software Engineer** passionate about building projects that are usable, 
 
 ---
 
-## Practicum Project: On The Spot - The Categories Game
+## Practicum Project: On The Spot - The Categories Game (server is currently down)
 
 A fun and challenging game where players test their "intelligence" and quick thinking!
 Explore the code across three repositories:
