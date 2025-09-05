@@ -10,7 +10,6 @@ A fun and challenging game where players test their "intelligence" and quick thi
 Explore the code across three repositories:
 - [On The Spot - Frontend](https://github.com/alden-sprackling/on_the_spot)
 - [On The Spot - Backend](https://github.com/alden-sprackling/on_the_spot_backend)
-- [On The Spot - Website](https://github.com/alden-sprackling/on_the_spot_website)
 
 ---
 
