@@ -7,7 +7,7 @@ I'm a **Software Engineer** passionate about building projects that are usable, 
 ## Practicum Project: On The Spot - The Categories Game (server is currently down)
 
 A fun and challenging game where players test their "intelligence" and quick thinking!
-Explore the code across three repositories:
+Explore the code across two repositories:
 - [On The Spot - Frontend](https://github.com/alden-sprackling/on_the_spot)
 - [On The Spot - Backend](https://github.com/alden-sprackling/on_the_spot_backend)
 
