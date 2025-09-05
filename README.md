@@ -15,8 +15,6 @@ Explore the code across three repositories:
 
 ## Top Skills
 - **Languages & Technologies:** Java, JavaScript, HTML, CSS, SQL
-- **APIs & Backend:** REST APIs, VPS deployment
-- **Development:** Building websites & mobile apps
 
 ---
 
